@@ -1,4 +1,5 @@
 # zerodha_login
+
 A modular approach for an automated login to zerodha for multiple users as same time.
 
 In order to run the module, pull the repo and install pre-requisites. Once done, undate the config file with necessary details and run the code.
