@@ -1,3 +1,4 @@
 kiteconnect
 pyyaml
 selenium
+webdriver-manager
